@@ -1,2 +1,2 @@
-# resumo-do-lab
+# Resumo do Laboratório Azure  
 Desafio de Projeto Resumo Laboratória Azure
